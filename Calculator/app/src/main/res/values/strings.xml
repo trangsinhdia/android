@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string-array name="list">
+        <item>Cộng</item>
+        <item>Trừ</item>
+        <item>Nhân</item>
+        <item>Chia</item>
+    </string-array>
+</resources>

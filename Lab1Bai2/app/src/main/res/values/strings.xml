@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab1Bai2</string>
+        <color name="red">#f00</color>
+        <color name="orange">#ffa500</color>
+        <color name="yellow">#ffff00</color>
+        <color name="green">#0f0</color>
+        <color name="blue">#00f</color>
+        <color name="indigo">#4b0082</color>
+        <color name="violet">#ee82ee</color>
+        <color name="back">#000</color>
+        <color name="white">#fff</color>
+</resources>
